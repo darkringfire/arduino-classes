@@ -35,7 +35,7 @@
 ### 4. Разбор примера Blink (10 мин)
 Открыть: **Файл → Примеры → 01.Basics → Blink**.
 
-![Светодиод на плате Arduino UNO](img/arduino-uno-L-blink.png)
+![Светодиод на плате Arduino UNO](img/01-arduino-uno-L-blink.png)
 
 ```cpp
 void setup() {
